@@ -1,0 +1,33 @@
+
+# version 30001
+
+data_coordinate_files
+
+loop_ 
+_rlnMicrographName #1 
+_rlnMicrographCoordinates #2 
+MotionCorr/job002/Movies/20170629_00021_frameImage.mrc AutoPick/job004/Movies/20170629_00021_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00022_frameImage.mrc AutoPick/job004/Movies/20170629_00022_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00023_frameImage.mrc AutoPick/job004/Movies/20170629_00023_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00024_frameImage.mrc AutoPick/job004/Movies/20170629_00024_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00025_frameImage.mrc AutoPick/job004/Movies/20170629_00025_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00026_frameImage.mrc AutoPick/job004/Movies/20170629_00026_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00027_frameImage.mrc AutoPick/job004/Movies/20170629_00027_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00028_frameImage.mrc AutoPick/job004/Movies/20170629_00028_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00029_frameImage.mrc AutoPick/job004/Movies/20170629_00029_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00030_frameImage.mrc AutoPick/job004/Movies/20170629_00030_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00031_frameImage.mrc AutoPick/job004/Movies/20170629_00031_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00035_frameImage.mrc AutoPick/job004/Movies/20170629_00035_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00036_frameImage.mrc AutoPick/job004/Movies/20170629_00036_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00037_frameImage.mrc AutoPick/job004/Movies/20170629_00037_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00039_frameImage.mrc AutoPick/job004/Movies/20170629_00039_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00040_frameImage.mrc AutoPick/job004/Movies/20170629_00040_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00042_frameImage.mrc AutoPick/job004/Movies/20170629_00042_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00043_frameImage.mrc AutoPick/job004/Movies/20170629_00043_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00044_frameImage.mrc AutoPick/job004/Movies/20170629_00044_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00045_frameImage.mrc AutoPick/job004/Movies/20170629_00045_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00046_frameImage.mrc AutoPick/job004/Movies/20170629_00046_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00047_frameImage.mrc AutoPick/job004/Movies/20170629_00047_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00048_frameImage.mrc AutoPick/job004/Movies/20170629_00048_frameImage_autopick.star 
+MotionCorr/job002/Movies/20170629_00049_frameImage.mrc AutoPick/job004/Movies/20170629_00049_frameImage_autopick.star 
+ 
